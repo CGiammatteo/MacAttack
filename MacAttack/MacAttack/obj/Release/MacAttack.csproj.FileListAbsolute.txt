@@ -1,0 +1,15 @@
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\bin\Release\MacAttack.exe.config
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\bin\Release\MacAttack.exe
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\bin\Release\MacAttack.pdb
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\bin\Release\MetroFramework.dll
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\bin\Release\Newtonsoft.Json.dll
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\bin\Release\Newtonsoft.Json.xml
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.csproj.AssemblyReference.cache
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.MainForm.resources
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.Properties.Resources.resources
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.csproj.GenerateResource.cache
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.csproj.CoreCompileInputs.cache
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.csproj.CopyComplete
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.exe
+C:\Users\Gostr\source\repos\MacAttack\MacAttack\obj\Release\MacAttack.pdb
